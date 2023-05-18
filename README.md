@@ -1,9 +1,9 @@
 ## BlissBot
 
-HOW I BUILT IT
+HOW I BUILT IT:
 BlissBot is a Contextual Mental Health Chatbot in PyTorch with Streamlit.
 
-WHAT IT IS
+WHAT IT IS:
 Aura is an intelligent chatbot designed to assist you! Aura is a powerful tool that can provide helpful information, answer your questions, and engage in conversation. Whether you need guidance, support, or simply want to chat, Aura is here for you. By leveraging natural language processing and machine learning techniques, Aura can understand your messages and provide relevant and meaningful responses. Just type your message in the text area and click Send to start a conversation. Aura's goal is to make your life easier and more enjoyable by offering a personalized and interactive experience. Give it a try and let Aura assist you with its knowledge and conversational abilities
 
 ## Try BlissBot!
